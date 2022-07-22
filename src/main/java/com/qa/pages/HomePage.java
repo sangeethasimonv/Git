@@ -5,5 +5,6 @@ public class HomePage {
 	public void homePage()
 	{
 		System.out.println("print reached home page");
+		System.out.println(" testing phase 1");
 	}
 }
